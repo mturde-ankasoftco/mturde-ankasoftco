@@ -10,7 +10,7 @@
 
   | Repository Name | Description  |
   | ------ | ------ |
-  | [vRA - abx action](https://github.com/mturde-ankasoftco/vra-abx) | Automation projects using abx action |
-  | [vRA - powerCLI](https://github.com/mturde-ankasoftco/vra-powercli) | Automation projects using PowerCLI |
-  | [terraform - vra](https://github.com/mturde-ankasoftco/terraform-vra) | VMWare Aria Automation For Terraform|
-  | [terraform - vsphere](https://github.com/mturde-ankasoftco/terraform-vsphere) | VMWare VSphere Provider For Terraform|
+  | [VMware Aria Automation - abx action](https://github.com/mturde-ankasoftco/vra-abx) | Automation projects using abx action |
+  | [VMware Aria Automation - powerCLI](https://github.com/mturde-ankasoftco/vra-powercli) | Automation projects using PowerCLI |
+  | [Terraform - vra](https://github.com/mturde-ankasoftco/terraform-vra) | VMWare Aria Automation For Terraform|
+  | [Terraform - vsphere](https://github.com/mturde-ankasoftco/terraform-vsphere) | VMWare VSphere Provider For Terraform|
