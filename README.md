@@ -10,7 +10,7 @@
 
   | Repository Name | Description  |
   | ------ | ------ |
-  | [vRA - abx action](https://github.com/rumeysakdogan/AWS_DevOps_Projects) | Automation projects using abx action |
-  | [vRA - powerCLI](https://github.com/rumeysakdogan/AWS/tree/master/hands-on) | Automation projects using PowerCLI |
-  | [terraform - vra](https://github.com/rumeysakdogan/AWS/tree/master/hands-on) | VMWare Aria Automation For Terraform|
-  | [terraform - vsphere](https://github.com/rumeysakdogan/petclinic-microservices-with-db) | VMWare VSphere Provider For Terraform|
+  | [vRA - abx action](https://github.com/mturde-ankasoftco/vra-abx) | Automation projects using abx action |
+  | [vRA - powerCLI](https://github.com/mturde-ankasoftco/vra-powercli) | Automation projects using PowerCLI |
+  | [terraform - vra](https://github.com/mturde-ankasoftco/terraform-vra) | VMWare Aria Automation For Terraform|
+  | [terraform - vsphere](https://github.com/mturde-ankasoftco/terraform-vsphere) | VMWare VSphere Provider For Terraform|
